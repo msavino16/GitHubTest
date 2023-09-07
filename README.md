@@ -1,2 +1,2 @@
-# Homework 3
-Hello!
+# Git Test
+Hello GitHub!
